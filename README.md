@@ -10,6 +10,10 @@ Vagrant Box for local LEMP development for Windows and Linux
 * Composer v1.4.2
 * git v2.7.4
 
+## Software needed
+* [Virtualbox](https://www.virtualbox.org/)
+* [Vagrant](https://www.vagrantup.com/)
+
 ## Usage
 ### 1.- Clone
 `$ git clone https://github.com/cerocodes/box.git myProject`
@@ -35,7 +39,11 @@ So you can edit the source code from your operating system and run with the Cero
 
 ![alt text](http://box.cerocodes.com/images/put_code.jpg "Where to put the code?")
 
+## Visualize your development
 
+Just enter the following IP in your browser: http://192.168.33.10
+
+![alt text](http://box.cerocodes.com/images/ip.jpg "Vagrant up")
 
 
 
