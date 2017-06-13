@@ -13,7 +13,7 @@ Vagrant Box for local LEMP development for Windows and Linux
 7. Help Tutorials
 	* [Ubuntu 17.04 Zesty](#ubuntu-1704-zesty)
 	* [Windows](#windows)
-8. Contact
+8. [Contact](#contact)
 
 ## Software Included
 * Ubuntu Ubuntu 16.04.2 LTS
