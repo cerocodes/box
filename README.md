@@ -11,7 +11,7 @@ Vagrant Box for local LEMP development for Windows and Linux
 5. [Visualize your development](#visualize-your-development)
 6. [Credentials](#credentials)
 7. Help Tutorials
-	* [Ubuntu 17.04 Zesty](#ubuntu-17.04-zesty)
+	* [Ubuntu 17.04 Zesty](#ubuntu-1704-zesty)
 	* [Windows](#windows)
 
 ## Software Included
